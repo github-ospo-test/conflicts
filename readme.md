@@ -31,5 +31,5 @@ const level = mapLevelToMethod[process.env.LOG_LEVEL.toLower() || "info"];
 ```
 
 ```ts
-
+// this is a comment
 ```
